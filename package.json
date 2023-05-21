@@ -1,0 +1,27 @@
+{
+  "name": "mern_stack_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juadebfm/mern_stack_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juadebfm/mern_stack_test/issues"
+  },
+  "homepage": "https://github.com/Juadebfm/mern_stack_test#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0",
+    "nodemon": "^2.0.22"
+  }
+}
